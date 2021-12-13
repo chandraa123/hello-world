@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user for DevOps Learning</h1>
     <p>Please fill in this form</p>
+    <a>Add some stuff</a>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
