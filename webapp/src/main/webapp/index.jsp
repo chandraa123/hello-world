@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <header>
-    <h2 style="color:grey;text-align:center;">Conso4s<h2>
+    <img src ="https://conso4s.com/wp-content/uploads/2019/12/conso4slogo-alt-1.png" alt="image" height ="42" width ="42" >
+    <h2 style="color:grey;text-align:center;text-decoration: underline;">Conso<a>4</a>s<h2>
   </header>
   <div class="container">
     <h1>New user for DevOps Learning1</h1>
