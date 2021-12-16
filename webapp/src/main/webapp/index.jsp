@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conso4s</title>
     <header style="background-color: cadetblue;">
-    <img src ="https://conso4s.com/wp-content/uploads/2019/12/conso4slogo-alt-1.png" alt="image" height ="60" width ="150%" >
+    <img src ="https://conso4s.com/wp-content/uploads/2019/12/conso4slogo-alt-1.png" alt="image" height ="60" width ="150" >
     </header>
 </head>
 <style>
