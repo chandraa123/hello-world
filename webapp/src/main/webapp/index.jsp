@@ -11,6 +11,7 @@
         height="60"
         width="150"
       />
+      <h2>Welcome to devops project</h2>
     </header>
   </head>
   <style>
