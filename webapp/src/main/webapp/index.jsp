@@ -12,6 +12,7 @@
         width="150"
       />
     </header>
+    <h2>Welcome to devops demo</h2>
   </head>
   <style>
     .card {
@@ -360,7 +361,7 @@
         style="width: 100%"
       />
       <h2 class="centered">Benefits</h2>
-     
+     <br/>
       <h3 class="centere">The advantages of an Offshore model</h3>
     </div>
   </body>
