@@ -12,7 +12,7 @@
         width="150"
       />
     </header>
-    <h2>Welcome to devops demo</h2>
+    <h2>Welcome to devops product demo</h2>
   </head>
   <style>
     .card {
