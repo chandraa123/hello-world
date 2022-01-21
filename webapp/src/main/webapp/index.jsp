@@ -11,7 +11,6 @@
         height="60"
         width="150"
       />
-      <h2>Welcome to devops project</h2>
     </header>
   </head>
   <style>
@@ -234,12 +233,7 @@
               font: 16px;
             "
           >
-            Our teams are built to meet your needs and can be flexed as your
-            need evolves – for example moving from a period of development into
-            one of maintenance. Typically, the team will consist of a Scrum
-            Master, Technical Lead, Front and Backend developers, QA and DevOps.
-            Additional skills can be applied as and when needed such as UX
-            Design to cater for all your needs.
+            
           </p>
         </div>
       </div>
@@ -262,13 +256,7 @@
               font: 16px;
             "
           >
-            Critical for success, the On-Shore liaison is a senior, experienced
-            resource who works closely with your business stakeholders, Product
-            Owners and wider technology team. They act as a bridge between
-            yourselves and the offshore team, ensuring they understand your
-            needs, priorities and pressures. Furthermore the act as your
-            confidant who will advise you the best way forward to achieve the
-            desired business outcome
+            
           </p>
         </div>
       </div>
@@ -291,12 +279,7 @@
               font: 16px;
             "
           >
-            As a partner, we are committed to ensuring you retain full
-            understanding and all collateral associated with your product. The
-            knowledge we build up is documented and shared with you in a common
-            portal which can be shared with the wider team. Alternatively, we
-            can use any existing knowledge base you have. Making sure that you
-            have full continuity in any scenario is imperative to us
+           
           </p>
         </div>
       </div>
@@ -319,10 +302,7 @@
               font: 16px;
             "
           >
-            From the off, we have a strong focus on quality adopting your DevOps
-            process from day one, or working with you to create one. This forms
-            part of an integrated, agreed end-to-end Agile process, helping to
-            reduce bugs and outages caused through change
+            
           </p>
         </div>
       </div>
@@ -345,10 +325,7 @@
               font: 16px;
             "
           >
-            Our resources are experts in technology and we are committed to
-            continually developing their skills and achieving certification.
-            Whether you are looking for Microsoft or LINUX based skills, mobile,
-            web or business systems experience, we can support you.
+           
           </p>
         </div>
       </div>
@@ -371,10 +348,7 @@
               font: 16px;
             "
           >
-            We operate straightforward, one-price monthly contracts, giving you
-            a predicatable monthly spend. You pay for what you use, and we are
-            able to scale up or down as the product transitions between major
-            releases and break-fix or small changes cycle
+           
           </p>
         </div>
       </div>
