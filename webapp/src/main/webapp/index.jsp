@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Conso4s</title>
-    <header style="background-color: red; width: 100%">
+    <header style="background-color: black; width: 100%">
       <img
         src="https://conso4s.com/wp-content/uploads/2019/12/conso4slogo-alt-1.png"
         alt="image"
@@ -377,7 +377,7 @@
     <a>Add some stuff</a>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -404,7 +404,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, For your time </h1>
 
   
 </form>
