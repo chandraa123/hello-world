@@ -12,7 +12,7 @@
         width="150"
       />
     </header>
-    <h2>Welcome to devops demo product</h2>
+    <h2>Welcome to Conso4s</h2>
   </head>
   <style>
     h2{
